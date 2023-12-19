@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @s-sreedhar
 - 👀 I’m interested in web development and product development 
-- 🌱 I’m currently learning cpp and java
-- 💞️ I’m looking to collaborate on front end projects
+- 🌱 I’m currently learning backend development and Machine Learning
+- 💞️ I’m looking to collaborate on building projects
 - 📫 Ping me on s.sreedhargoud@gmail.com
 
 <!---
